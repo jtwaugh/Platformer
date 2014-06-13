@@ -1,0 +1,5 @@
+files:
+-rock.txt
+files/debug:
+-bullet.txt
+-bullet2.txt

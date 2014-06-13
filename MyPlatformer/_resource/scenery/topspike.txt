@@ -1,0 +1,10 @@
+name = Top Spike
+pic = topspike
+color = 254,0,0
+solid = false
+topcollide = null
+botcollide = falldamage -.2
+sidecollide = null
+action = null
+damage = null
+death = null

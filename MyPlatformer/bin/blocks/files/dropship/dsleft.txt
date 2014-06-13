@@ -1,0 +1,4 @@
+dsleft
+solid = true
+0,0,27
+0.18

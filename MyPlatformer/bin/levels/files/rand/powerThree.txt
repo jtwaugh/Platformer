@@ -1,0 +1,4 @@
+Power I
+Response to riots for Power. This mission gives 1000 Power on completion.
+Power
+rand/reservoir.txt

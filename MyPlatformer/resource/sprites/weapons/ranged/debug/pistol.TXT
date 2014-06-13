@@ -1,0 +1,9 @@
+Debug Pistol
+Pistol
+20
+.05
+5000
+100
+1
+12
+Debug Bullet

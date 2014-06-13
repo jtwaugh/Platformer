@@ -1,0 +1,77 @@
+OMSI
+pics/omsi.png
+pics/omsis.png
+Horizon
+1460, 800
+
+Character = {
+	name = "Enemy 1"
+	sprite = "evil robot"
+	weight = 1
+	speed = 2
+	ai = "draws aggro"
+	weapon = "null"
+	hp = 20
+	pos = 2840, 2200
+}
+
+Character = {
+	name = "dummy"
+	sprite = "null"
+	weight = 1
+	speed = 2
+	ai = "stay"
+	weapon = "null"
+	hp = -1
+	pos = 3520, 1100
+}
+
+MessageBox = {
+	name = "win text"
+	width = 200
+	height = 100
+	style = "robo frame"
+	text = "You have completed the level."
+	pos = 380, 480
+}
+
+Event = {
+	name = "win"
+	
+	trigger = {
+		Character = {
+			member = {
+				name = "dummy"
+				proximity = 100
+			}
+		}
+	}
+	
+	effect = {
+		Window = {
+			member = {	
+				name = "win text"
+				display = true
+			}
+		}
+	}
+}
+
+Event = {
+	name = "actually win"
+	
+	trigger = {
+		Window = {
+			member = {	
+				name = "win text"
+				close = true
+			}
+		}
+	}
+	
+	effect = {
+		Level = {
+			complete = yes
+		}
+	}
+}

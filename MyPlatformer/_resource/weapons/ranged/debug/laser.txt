@@ -1,0 +1,9 @@
+Debug Laser
+Laser
+20
+.02
+5000
+500
+5
+5
+Player Bullet

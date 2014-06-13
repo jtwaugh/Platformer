@@ -1,0 +1,4 @@
+blocks/pics/Gem.png
+solid = true
+250, 150, 50
+0.3

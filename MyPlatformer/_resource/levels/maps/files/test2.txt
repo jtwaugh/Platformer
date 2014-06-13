@@ -1,0 +1,5 @@
+Test Map II
+pics/test4.png
+pics/test4s.png
+null
+100, 100

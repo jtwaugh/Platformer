@@ -1,0 +1,4 @@
+Liberation of Northeast
+First actual level. There should be a cutscene of you crashing at the start and an intro to game commands.
+It is time to begin the reclamation of Portland. We have scheduled a dropship to land in a cleared zone in Northeast, where the provisional government has been set up. From there you should be smoothly instated as the new colonial governor. Thank you and have a nice day.
+droppod.txt, northeast.txt

@@ -1,0 +1,4 @@
+dsright
+solid = true
+0,0,28
+0.18

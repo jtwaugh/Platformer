@@ -1,0 +1,17 @@
+Another level
+pics/small map.png
+pics/small maps.png
+Horizon
+0, 340
+
+Character = {
+	name = "Moving Robot"
+	sprite = "robot2_concept"
+	weight = 1
+	speed = 2
+	ai = "draws aggro"
+	weapon = "Debug Pistol"
+	hp = 20 
+	pos = 720, 340
+}
+

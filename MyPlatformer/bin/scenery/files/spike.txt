@@ -1,0 +1,10 @@
+name = Spike
+pic = spike
+color = 255,0,0
+solid = false
+topcollide = falldamage .2
+botcollide = null
+sidecollide = null
+action = null
+damage = null
+death = null

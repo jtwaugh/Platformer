@@ -1,0 +1,6 @@
+ranged/debug:
+-pistol.txt
+-laser.txt
+-slow pistol.txt
+ranged:
+-rock.txt
