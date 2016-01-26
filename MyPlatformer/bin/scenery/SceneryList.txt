@@ -1,7 +1,0 @@
--spike.txt
--topspike.txt
--null.txt
--ladder.txt
--doorClosed.txt
--doorOpen.txt
--shainaflames.txt

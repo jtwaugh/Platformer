@@ -1,4 +1,0 @@
-shainaflames
-solid = false
-255, 150, 0
-0.18

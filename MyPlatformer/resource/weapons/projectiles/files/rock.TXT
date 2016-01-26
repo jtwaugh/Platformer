@@ -1,5 +1,0 @@
-Rock
-rock
-5
-10
-true

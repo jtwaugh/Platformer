@@ -1,4 +1,0 @@
-basictrashblock
-solid = true
-128, 128, 128
-0.18

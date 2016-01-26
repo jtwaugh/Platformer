@@ -1,4 +1,0 @@
-basicsandblock
-solid = true
-128, 128, 0
-0.198

@@ -1,4 +1,0 @@
-Test Level
-Archive this for nostalgia
-This is a "level" designated for debug purposes, including the testing of the overworld, dialog, and multi-map functionalities.
-test1.txt, test2.txt

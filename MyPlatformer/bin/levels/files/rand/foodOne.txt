@@ -1,4 +1,0 @@
-Food III
-PROXY
-Food Mission III
-drop pod.txt, level1map.txt

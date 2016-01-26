@@ -1,4 +1,0 @@
-metal
-solid = true
-50, 50, 50
-0.18

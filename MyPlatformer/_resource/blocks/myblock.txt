@@ -1,4 +1,0 @@
-blocks/pics/debug/myblock.png
-solid = true
-254, 0, 0
-0.5

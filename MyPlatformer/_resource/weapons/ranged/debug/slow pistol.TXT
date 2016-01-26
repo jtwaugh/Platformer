@@ -1,9 +1,0 @@
-Slow Pistol
-Pistol
-20
-.05
-800
-1000
-1
-12
-Debug Bullet

@@ -1,5 +1,0 @@
-Player Bullet
-bullet2
-6
-10
-false

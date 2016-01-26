@@ -1,4 +1,0 @@
-Water II
-PROXY
-Water Mission II
-drop pod.txt, level1map.txt

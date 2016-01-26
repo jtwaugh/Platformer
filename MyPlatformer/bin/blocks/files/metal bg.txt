@@ -1,4 +1,0 @@
-metal bg
-solid = false
-40, 40, 40
-0

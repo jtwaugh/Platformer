@@ -1,4 +1,0 @@
-Water I
-Response to riots for water. This mission gives 1000 water on completion.
-The people are dying in the streets of thirst while robots hold on to vital water supplies, polluting reservoirs and befouling wetlands. We have selected a specific reservoir to retake for the good of the colony.
-rand/reservoir.txt
