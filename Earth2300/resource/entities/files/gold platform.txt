@@ -1,0 +1,4 @@
+entities/pics/Platform.png
+entities/scripts/test.txt
+1
+0.5

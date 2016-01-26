@@ -1,0 +1,4 @@
+spike
+solid = true
+255, 0, 0
+0.18

@@ -1,0 +1,4 @@
+blocks/pics/debug/yellow.png
+solid = true
+255, 255, 0
+0.2

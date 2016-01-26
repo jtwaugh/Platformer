@@ -1,0 +1,4 @@
+left 7
+stop 1
+right 7
+stop 1

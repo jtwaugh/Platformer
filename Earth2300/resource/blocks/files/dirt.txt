@@ -1,0 +1,4 @@
+othertrashblock
+solid = true
+96, 48, 0
+0.18

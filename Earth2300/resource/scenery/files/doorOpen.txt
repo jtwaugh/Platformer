@@ -1,0 +1,10 @@
+name = DoorOpen
+pic = doorOpen
+color = 255,0,2
+solid = false
+topcollide = null
+botcollide = null
+sidecollide = null
+action = transform DoorClosed
+damage = null
+death = null

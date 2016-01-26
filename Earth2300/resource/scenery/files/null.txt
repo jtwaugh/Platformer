@@ -1,0 +1,10 @@
+name = null
+pic = null
+color = 255,255,255
+solid = false
+topcollide = null
+botcollide = null
+sidecollide = null
+action = null
+damage = null
+death = null
